@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/emx-website/complaint-form-pos/static/css/main.cc8372d9.chunk.css",
-    "main.js": "/emx-website/complaint-form-pos/static/js/main.b1122dbc.chunk.js",
-    "main.js.map": "/emx-website/complaint-form-pos/static/js/main.b1122dbc.chunk.js.map",
-    "runtime-main.js": "/emx-website/complaint-form-pos/static/js/runtime-main.5e3637b2.js",
-    "runtime-main.js.map": "/emx-website/complaint-form-pos/static/js/runtime-main.5e3637b2.js.map",
-    "static/js/2.08bc49ab.chunk.js": "/emx-website/complaint-form-pos/static/js/2.08bc49ab.chunk.js",
-    "static/js/2.08bc49ab.chunk.js.map": "/emx-website/complaint-form-pos/static/js/2.08bc49ab.chunk.js.map",
-    "static/js/3.20b75826.chunk.js": "/emx-website/complaint-form-pos/static/js/3.20b75826.chunk.js",
-    "static/js/3.20b75826.chunk.js.map": "/emx-website/complaint-form-pos/static/js/3.20b75826.chunk.js.map",
-    "index.html": "/emx-website/complaint-form-pos/index.html",
-    "static/css/main.cc8372d9.chunk.css.map": "/emx-website/complaint-form-pos/static/css/main.cc8372d9.chunk.css.map",
-    "static/js/2.08bc49ab.chunk.js.LICENSE.txt": "/emx-website/complaint-form-pos/static/js/2.08bc49ab.chunk.js.LICENSE.txt"
+    "main.css": "/complaint-form-pos/static/css/main.cc8372d9.chunk.css",
+    "main.js": "/complaint-form-pos/static/js/main.b1122dbc.chunk.js",
+    "main.js.map": "/complaint-form-pos/static/js/main.b1122dbc.chunk.js.map",
+    "runtime-main.js": "/complaint-form-pos/static/js/runtime-main.9d36247b.js",
+    "runtime-main.js.map": "/complaint-form-pos/static/js/runtime-main.9d36247b.js.map",
+    "static/js/2.08bc49ab.chunk.js": "/complaint-form-pos/static/js/2.08bc49ab.chunk.js",
+    "static/js/2.08bc49ab.chunk.js.map": "/complaint-form-pos/static/js/2.08bc49ab.chunk.js.map",
+    "static/js/3.20b75826.chunk.js": "/complaint-form-pos/static/js/3.20b75826.chunk.js",
+    "static/js/3.20b75826.chunk.js.map": "/complaint-form-pos/static/js/3.20b75826.chunk.js.map",
+    "index.html": "/complaint-form-pos/index.html",
+    "static/css/main.cc8372d9.chunk.css.map": "/complaint-form-pos/static/css/main.cc8372d9.chunk.css.map",
+    "static/js/2.08bc49ab.chunk.js.LICENSE.txt": "/complaint-form-pos/static/js/2.08bc49ab.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5e3637b2.js",
+    "static/js/runtime-main.9d36247b.js",
     "static/js/2.08bc49ab.chunk.js",
     "static/css/main.cc8372d9.chunk.css",
     "static/js/main.b1122dbc.chunk.js"
